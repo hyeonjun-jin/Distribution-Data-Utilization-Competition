@@ -22,9 +22,6 @@
         3) 분류 정보(대·중·소분류) 와 바코드(barcode) 결측치를 보완
         4) 등장빈도(frequency) 와 순도(purity) 를 활용해 중분류와 소분류를 자동으로 매핑
         5) 브랜드 접두사 기반 보정(Brand Prefix Refinement) 을 적용
-
-        <img src='./images/image_42.png' width='800'>
-
         6) 미분류 데이터 처리
     - 외부 데이터
         1) 온도 및 강수량 데이터
