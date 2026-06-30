@@ -13,8 +13,8 @@
 > ## 분석 방법 및 절차
 ### 1. 데이터 전처리
 
-<img src='./images/image_34.png' width='800'>
 
+<img src='./images/processing.png' width='800'>
 * 순서
     - 내부 데이터
         1) 기본 정제 및 분류키 생성
@@ -23,6 +23,9 @@
         4) 등장빈도(frequency) 와 순도(purity) 를 활용해 중분류와 소분류를 자동으로 매핑
         5) 브랜드 접두사 기반 보정(Brand Prefix Refinement) 을 적용
         6) 미분류 데이터 처리
+
+<img src='./images/image_34.png' width='800'>
+
     - 외부 데이터
         1) 온도 및 강수량 데이터
         2) 평일·주말·공휴일 데이터
