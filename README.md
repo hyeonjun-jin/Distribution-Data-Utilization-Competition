@@ -15,6 +15,7 @@
 
 
 <img src='./images/processing.png' width='800'>
+
 * 순서
     - 내부 데이터
         1) 기본 정제 및 분류키 생성
@@ -30,6 +31,7 @@
         1) 온도 및 강수량 데이터
         2) 평일·주말·공휴일 데이터
         3) 코로나19 확진자 수 데이터
+        
 ### 2. 정확도 측정 지표
 1. R² (Coefficient of Determination)
 2. MAPE (Mean Absolute Percentage Error)
